@@ -7,13 +7,13 @@
 
  Cochez les activités que vous avez réalisées avant de vous rendre ici (Pour cocher une activité, remplacez [ ] par [x]) :
 
- - [ ] Installer les outils de développement
- - [ ] Pester contre Windows 10
- - [ ] Prendre une pause
- - [ ] Faire un peu de social
- - [ ] Poser des questions
+ - [x] Installer les outils de développement
+ - [x] Pester contre Windows 10
+ - [x] Prendre une pause
+ - [x] Faire un peu de social
+ - [x] Poser des questions
 
  Cochez maintenant les endroits à partir desquels vous avez effectué les modifications :
 
  - [ ] La machine virtuelle
- - [ ] Votre ordinateur personnel
+ - [x] Votre ordinateur personnel
